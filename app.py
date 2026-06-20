@@ -201,6 +201,5 @@ st.write(
     """
 )
 
-st.subheader("Raw Simulation Data")
-
-st.dataframe(data, use_container_width=True)
+with st.expander("View raw simulation data"):
+    st.dataframe(data, use_container_width=True)
