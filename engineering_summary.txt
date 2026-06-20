@@ -1,0 +1,39 @@
+
+SMART PIPELINE ELBOW DIGITAL TWIN - ENGINEERING SUMMARY
+
+Asset:
+90-degree steel pipeline elbow subjected to pressure surge, thermal expansion, and fatigue loading.
+
+Physics Included:
+- Pressure surge from valve closure
+- Hoop stress
+- Longitudinal pressure stress
+- Restrained thermal stress
+- von Mises equivalent stress
+- Elbow stress concentration factor
+- Simplified fatigue damage using S-N curve and Miner's rule
+- Factor of safety against yield
+
+Worst Stress Scenario:
+High-Risk Elbow
+
+Maximum von Mises Stress:
+378.04 MPa
+
+Worst Fatigue Scenario:
+Thin Wall
+
+Final Fatigue Damage:
+7.645e-10
+
+Lowest Factor of Safety Scenario:
+High-Risk Elbow
+
+Factor of Safety:
+0.66
+
+Static Safety Check:
+Fail
+
+Conclusion:
+The simulation shows that reduced pipe wall thickness, rapid valve closure, high temperature rise, and increased elbow stress concentration significantly increase von Mises stress and fatigue damage while reducing the factor of safety.
